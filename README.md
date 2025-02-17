@@ -6,4 +6,6 @@ Those are a collection of datasets that I used for different projects. None of t
 https://archive-beta.ics.uci.edu/dataset/325/dataset+for+sensorless+drive+diagnosis
 
 * IMDb dataset
+
 https://huggingface.co/datasets/scikit-learn/imdb/blob/main/IMDB%20Dataset.csv
+
